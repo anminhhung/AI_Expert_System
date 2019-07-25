@@ -1,0 +1,16 @@
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\bin\Release\ExpertSystem.exe.config
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\bin\Release\ExpertSystem.exe
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\bin\Release\ExpertSystem.pdb
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.csprojAssemblyReference.cache
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\Interop.WMPLib.dll
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.csproj.ResolveComReference.cache
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.Main.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.Properties.Resources.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.quanlyluat.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.QuanLySuKien.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.ThongTin.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.TuVan.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.csproj.GenerateResource.cache
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.exe
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Release\ExpertSystem.pdb

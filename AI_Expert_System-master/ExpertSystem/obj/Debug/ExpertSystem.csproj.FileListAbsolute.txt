@@ -1,0 +1,74 @@
+I:\AI\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+I:\AI\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+I:\AI\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+I:\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csprojAssemblyReference.cache
+I:\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Main.resources
+I:\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+I:\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.quanlyluat.resources
+I:\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.QuanLySuKien.resources
+I:\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.TuVan.resources
+I:\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+I:\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+I:\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+I:\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csprojAssemblyReference.cache
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Main.resources
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.quanlyluat.resources
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.QuanLySuKien.resources
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.TuVan.resources
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+C:\Users\John Tran\Desktop\AI\AI\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csprojAssemblyReference.cache
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Main.resources
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.quanlyluat.resources
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.QuanLySuKien.resources
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.ThongTin.resources
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.TuVan.resources
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\Interop.WMPLib.dll
+I:\Expert-System-AI-Project-bittervirgin-patch-1\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.ResolveComReference.cache
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csprojAssemblyReference.cache
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\Interop.WMPLib.dll
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.ResolveComReference.cache
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Main.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.quanlyluat.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.QuanLySuKien.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.ThongTin.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.TuVan.resources
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+C:\Users\John Tran\Source\Repos\Expert-System-AI-Project\Expertsystem-update\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.Main.resources
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.quanlyluat.resources
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.QuanLySuKien.resources
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.ThongTin.resources
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.TuVan.resources
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.exe
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.pdb
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\bin\Debug\ExpertSystem.exe
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\bin\Debug\ExpertSystem.pdb
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+C:\Users\ASUS\Desktop\AI_Expert_System-master\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
